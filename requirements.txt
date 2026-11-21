@@ -6,3 +6,4 @@ matplotlib
 seaborn
 regex
 xgboost
+gradio
